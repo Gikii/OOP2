@@ -2,7 +2,7 @@
 
 A graphical, turn-based ecosystem simulator built with Java and the Swing UI toolkit. This project extends core Object-Oriented Programming (OOP) concepts by integrating event-driven programming, graphical user interfaces, and interchangeable spatial structures.
 
-
+<img width="2446" height="1139" alt="image" src="https://github.com/user-attachments/assets/33618a10-1fdc-42d6-9d35-743e3f966ed0" />
 
 ## Core Architecture and OOP Principles
 
