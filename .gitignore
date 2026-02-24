@@ -1,0 +1,53 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+```text
+# Skompilowane pliki klas
+*.class
+
+# Foldery budowania projektu (jeśli używasz Mavena/Gradle lub IDE)
+/out/
+/bin/
+/target/
+/build/
+
+# Pliki konfiguracyjne IntelliJ IDEA
+.idea/
+*.iml
+
+# Pliki konfiguracyjne Eclipse
+.metadata
+.classpath
+.project
+.settings/
+
+# Pliki z zapisanym stanem gry
+*.save
+*.txt
